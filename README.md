@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Tiến Dũng</h1>
-<h3 align="center">i just a programming learner</h3>
+<h3 align="center">i am a programming learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dung092005&label=Profile%20views&color=0e75b6&style=flat" alt="dung092005" /> </p>
 
