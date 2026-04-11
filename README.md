@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0508,35:8b2500,70:ff4500,100:ffb347&height=220&section=header&text=Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20D%C5%A9ng&fontSize=44&fontColor=fff5e6&animation=twinkling&fontAlignY=30&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20CV%20%C2%B7%20NLP%20%C2%B7%20Generative%20AI&descAlignY=54&descSize=17&descColor=ffe0b2" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,35:0077b6,70:00b4d8,100:90e0ef&height=220&section=header&text=Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20D%C5%A9ng&fontSize=44&fontColor=f8fafc&animation=twinkling&fontAlignY=30&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Generative%20AI&descAlignY=54&descSize=17&descColor=cffafe" width="100%" alt="Header banner" />
 
-**ICT @ USTH** · AI / ML · Computer Vision · NLP · GenAI
+**B.Sc ICT @ USTH** · AI / ML · Computer Vision · NLP · Generative AI
 
 <p>
-<a href="https://nguyen-tien-dung.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nguyen--tien--dung.vercel.app-FF4500?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0508" alt="Portfolio" /></a>
-<a href="https://github.com/Dung092005"><img src="https://img.shields.io/badge/GitHub-Dung092005-1a0508?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6b35" alt="GitHub" /></a>
-<a href="mailto:dung09122005@gmail.com"><img src="https://img.shields.io/badge/Email-dung09122005%40gmail.com-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0508" alt="Email" /></a>
+<a href="https://nguyen-tien-dung.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nguyen--tien--dung.vercel.app-0077b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e" alt="Portfolio" /></a>
+<a href="https://github.com/Dung092005"><img src="https://img.shields.io/badge/GitHub-Dung092005-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=023e8a" alt="GitHub" /></a>
+<a href="mailto:dung09122005@gmail.com"><img src="https://img.shields.io/badge/Email-contact-48cae4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e" alt="Email" /></a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Dung092005?style=for-the-badge&logo=github&color=ff4500&labelColor=1a0508)](https://github.com/Dung092005?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=dung092005&label=Profile%20views&color=ff6b35&style=for-the-badge&labelColor=1a0508)](https://github.com/Dung092005)
-[![Repos](https://img.shields.io/badge/Repos-public-ffb347?style=for-the-badge&logo=github&logoColor=1a0508&labelColor=1a0508)](https://github.com/Dung092005?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Dung092005?style=for-the-badge&logo=github&color=0077b6&labelColor=03045e)](https://github.com/Dung092005?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=dung092005&label=Profile%20views&color=00b4d8&style=for-the-badge&labelColor=03045e)](https://github.com/Dung092005)
+[![Repos](https://img.shields.io/badge/Repos-public-90e0ef?style=for-the-badge&logo=github&logoColor=03045e&labelColor=023e8a)](https://github.com/Dung092005?tab=repositories)
 
 </div>
 
 ---
 
-### Giới thiệu · About
+### About
 
-Xin chào — mình là **Nguyễn Tiến Dũng**, sinh viên **ICT tại USTH**, định hướng **AI / ML Engineer**: Computer Vision, NLP và Generative AI. Mình thích biến ý tưởng thành pipeline có thể tái lập và sản phẩm có thể demo.
+I'm **Nguyễn Tiến Dũng**, an ICT undergraduate at **USTH (University of Science and Technology of Hanoi)**. I focus on **AI / ML engineering** across **Computer Vision**, **NLP**, and **Generative AI** — turning ideas into reproducible pipelines and shippable demos.
 
-**Website cá nhân (portfolio, CV, dự án):** [**nguyen-tien-dung.vercel.app**](https://nguyen-tien-dung.vercel.app/)
+**Portfolio · CV · projects:** [**nguyen-tien-dung.vercel.app**](https://nguyen-tien-dung.vercel.app/)
 
 ---
 
 ### At a glance
 
 <p>
-<img src="https://img.shields.io/badge/GPA-3.5%20%2F%204.0-ff4500?style=for-the-badge&labelColor=1a0508" alt="GPA" />
-<img src="https://img.shields.io/badge/USTH-B.Sc%20ICT-ff6b35?style=for-the-badge&labelColor=1a0508" alt="USTH" />
-<img src="https://img.shields.io/badge/Graduation-2027-ffb347?style=for-the-badge&labelColor=1a0508" alt="2027" />
-<img src="https://img.shields.io/badge/Focus-RAG%20%C2%B7%20LLM%20%C2%B7%20Vision-1a0508?style=for-the-badge&color=ff4500" alt="Focus" />
+<img src="https://img.shields.io/badge/GPA-3.5%20%2F%204.0-0077b6?style=for-the-badge&labelColor=03045e" alt="GPA" />
+<img src="https://img.shields.io/badge/USTH-B.Sc%20ICT-00b4d8?style=for-the-badge&labelColor=03045e" alt="USTH" />
+<img src="https://img.shields.io/badge/Graduation-2027-48cae4?style=for-the-badge&labelColor=03045e" alt="Graduation" />
+<img src="https://img.shields.io/badge/Focus-RAG%20%C2%B7%20LLM%20%C2%B7%20Vision-023e8a?style=for-the-badge&color=90e0ef&labelColor=03045e" alt="Focus" />
 </p>
 
-<sub>Scholarships: Academic Encouragement · Hardship Overcoming (USTH) — chi tiết trên portfolio.</sub>
+<sub>Scholarships: Academic Encouragement · Hardship Overcoming (USTH) — details on my portfolio.</sub>
 
 ---
 
@@ -76,7 +76,7 @@ Xin chào — mình là **Nguyễn Tiến Dũng**, sinh viên **ICT tại USTH**
 </tr>
 </table>
 
-<sub>LangChain, FastAPI, OpenCV, Transformers, MLflow… — xem đầy đủ trên <a href="https://nguyen-tien-dung.vercel.app/">portfolio</a>.</sub>
+<sub>LangChain, FastAPI, OpenCV, Transformers, MLflow, and more — full list on my <a href="https://nguyen-tien-dung.vercel.app/">portfolio</a>.</sub>
 
 ---
 
@@ -89,33 +89,25 @@ Xin chào — mình là **Nguyễn Tiến Dũng**, sinh viên **ICT tại USTH**
 | **AutoML Pipeline** | MLflow · **−60%** prototyping time |
 | **DeepVoice Studio** | Vietnamese TTS · **MOS 4.1**/5.0 |
 
-→ Chi tiết demo, stack và mô tả: [**nguyen-tien-dung.vercel.app**](https://nguyen-tien-dung.vercel.app/)
+For demos, stack, and write-ups: [**nguyen-tien-dung.vercel.app**](https://nguyen-tien-dung.vercel.app/)
 
 ---
 
-### GitHub activity
+### Contribution graph · snake animation
 
-<sub>Số đóng góp & streak bên dưới do GitHub tính tự động (không chỉnh tay được). Mình phóng to thẻ để dễ đọc hơn.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dung092005/Dung092005/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dung092005/Dung092005/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" width="100%" />
+</picture>
 
-<p align="center">
-<img width="520" src="https://github-readme-stats.vercel.app/api?username=dung092005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=7200&border_radius=12" alt="GitHub stats" />
-<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung092005&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200&border_radius=12" alt="Top languages" />
-</p>
-
-<p align="center">
-<img width="640" src="https://streak-stats.demolab.com?user=dung092005&theme=radical&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=ffb347&fire=ff4500&card_width=640" alt="GitHub streak" />
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dung092005&theme=juicyfresh&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-</p>
+<sub>Generated daily from your public contribution graph via <a href="https://github.com/Platane/snk">Platane/snk</a>. If this image is missing, open <b>Actions → Generate contribution snake → Run workflow</b> once (GitHub Actions must be enabled for this repository).</sub>
 
 ---
 
 <div align="center">
 
-**Pinned repos** — algorithms, TypeScript, và những gì mình ship tiếp theo.
+**Pinned repositories** — algorithms, TypeScript, and what I ship next.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,60:1a0508,100:0a0203&height=110&section=footer" width="100%" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:023e8a,100:03045e&height=110&section=footer" width="100%" alt="Footer wave" />
 
 </div>

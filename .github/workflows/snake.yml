@@ -1,0 +1,31 @@
+name: Generate contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate ocean-themed snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2300b4d8&color_dots=%23e0f7fa,%2389cff0,%2300b4d8,%230077b6,%2303045e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338bdf8&color_dots=%230a1628,%230f2847,%230c4a6e,%230891b2,%2338bdf8
+
+      - name: Deploy SVGs to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
+          clean: true
