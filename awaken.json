@@ -1,33 +1,65 @@
 {
   "username": "Dung092005",
-  "layout": "default",
+  "layout": "custom",
+  "widgets": [
+    "banner",
+    "hunter",
+    "status",
+    "arsenal",
+    "achievements",
+    "activity",
+    "quest",
+    "skills",
+    "contribution",
+    "combat",
+    "hours",
+    "daily",
+    "bio",
+    "career",
+    "spotlight",
+    "oracle",
+    "contacts",
+    "cv",
+    "runes"
+  ],
   "theme": "solo_leveling",
   "title": "auto",
   "activity": "arise",
-  "icons": "rune",
+  "icons": "brand",
   "motion": "full",
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": true,
   "banner": {
     "lines": [
-      "SYSTEM NOTIFICATION",
-      "Player Nguyễn Tiến Dũng has awakened.",
-      "Class · AI / ML Engineer — CV · NLP · Generative AI"
+      "[ SYSTEM NOTIFICATION ]",
+      "Player NGUYEN TIEN DUNG has awakened.",
+      "Class: AI / ML Engineer  ·  Guild: USTH (B.Sc ICT, 2027)",
+      "Skills: Computer Vision · NLP · Generative AI · RAG"
     ],
-    "style": "system"
+    "style": "glitch"
   },
   "bio": {
-    "role": "ICT Undergraduate @ USTH",
-    "focus": "AI / ML · Computer Vision · NLP · GenAI",
+    "role": "B.Sc ICT Student @ USTH · GPA 3.5 / 4.0",
+    "focus": "AI / ML · Computer Vision · NLP · Generative AI",
     "location": "Hanoi, Vietnam",
-    "about": "Building reproducible AI pipelines and shippable demos across Computer Vision, NLP, and Generative AI."
+    "about": "ICT undergraduate at USTH focused on AI/ML engineering: turning ideas into reproducible pipelines and shippable demos across Computer Vision, NLP, and Generative AI."
   },
   "career": [
     {
-      "role": "B.Sc ICT Student",
-      "org": "USTH",
-      "years": "2023–2027",
+      "role": "B.Sc ICT · GPA 3.5/4.0 · Graduating 2027",
+      "org": "USTH — University of Science and Technology of Hanoi",
+      "years": "2023 – 2027",
       "current": true
+    },
+    {
+      "role": "Academic Encouragement Scholarship",
+      "org": "USTH",
+      "years": "Awarded"
+    },
+    {
+      "role": "Hardship Overcoming Scholarship",
+      "org": "USTH",
+      "years": "Awarded"
     }
   ],
   "cv": "https://nguyen-tien-dung.vercel.app/",
@@ -40,7 +72,7 @@
     {
       "type": "github",
       "url": "https://github.com/Dung092005",
-      "label": "GitHub"
+      "label": "Dung092005"
     },
     {
       "type": "email",
@@ -54,20 +86,30 @@
     "TensorFlow",
     "NumPy",
     "OpenCV",
-    "FastAPI",
+    "Hugging Face",
     "LangChain",
+    "FastAPI",
+    "MLflow",
+    "Docker",
+    "AWS",
+    "Pinecone",
     "React",
     "Node.js",
+    "TypeScript",
     "C",
     "C++",
     "Java",
     "Git",
-    "MLflow"
+    "Linux"
   ],
   "spotlight": [
     "chatbot_deep_research",
     "Rag_pipeline_chatbot_luat_lao_dong",
     "Discord_Study_Copilot",
     "Cloud-Fraud-Detection-Platform-on-AWS-"
+  ],
+  "quotes": [
+    "builtin",
+    { "text": "Turn ideas into reproducible pipelines and shippable demos.", "author": "Nguyễn Tiến Dũng" }
   ]
 }
