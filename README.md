@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0220,30:3b0a8a,60:7c3aed,100:a78bfa&height=230&section=header&text=Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20D%C5%A9ng&fontSize=46&fontColor=f5f3ff&animation=twinkling&fontAlignY=32&desc=%5B%20SYSTEM%20%5D%20AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Generative%20AI&descAlignY=55&descSize=17&descColor=ddd6fe" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=230&section=header&text=Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20D%C5%A9ng&fontSize=46&fontColor=f8fafc&animation=twinkling&fontAlignY=32&desc=%5B%20SYSTEM%20%5D%20AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Generative%20AI&descAlignY=55&descSize=17&descColor=cffafe" width="100%" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+NOTIFICATION+%5D+You+have+been+chosen+as+a+Player.;B.Sc+ICT+%40+USTH+%C2%B7+GPA+3.5+%2F+4.0+%C2%B7+Class+of+2027;AI+%2F+ML+%C2%B7+Computer+Vision+%C2%B7+NLP+%C2%B7+Generative+AI;RAG+pipelines+%C2%B7+LLM+apps+%C2%B7+Shippable+demos" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+NOTIFICATION+%5D+You+have+been+chosen+as+a+Player.;B.Sc+ICT+%40+USTH+%C2%B7+GPA+3.5+%2F+4.0+%C2%B7+Class+of+2027;AI+%2F+ML+%C2%B7+Computer+Vision+%C2%B7+NLP+%C2%B7+Generative+AI;RAG+pipelines+%C2%B7+LLM+apps+%C2%B7+Shippable+demos" alt="Typing intro" />
 
 <p>
-<a href="https://nguyen-tien-dung.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nguyen--tien--dung.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e0a4a" alt="Portfolio" /></a>
-<a href="https://github.com/Dung092005"><img src="https://img.shields.io/badge/GitHub-Dung092005-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e0a4a" alt="GitHub" /></a>
-<a href="mailto:dung09122005@gmail.com"><img src="https://img.shields.io/badge/Email-dung09122005%40gmail.com-c4b5fd?style=for-the-badge&logo=gmail&logoColor=1e0a4a&labelColor=1e0a4a" alt="Email" /></a>
+<a href="https://nguyen-tien-dung.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nguyen--tien--dung.vercel.app-0077b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e" alt="Portfolio" /></a>
+<a href="https://github.com/Dung092005"><img src="https://img.shields.io/badge/GitHub-Dung092005-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e" alt="GitHub" /></a>
+<a href="mailto:dung09122005@gmail.com"><img src="https://img.shields.io/badge/Email-dung09122005%40gmail.com-48cae4?style=for-the-badge&logo=gmail&logoColor=03045e&labelColor=03045e" alt="Email" /></a>
 </p>
 
 <p>
-<a href="https://github.com/Dung092005?tab=followers"><img src="https://img.shields.io/github/followers/Dung092005?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e0a4a" alt="GitHub followers" /></a>
-<a href="https://github.com/Dung092005"><img src="https://komarev.com/ghpvc/?username=dung092005&label=Profile%20views&color=a78bfa&style=for-the-badge&labelColor=1e0a4a" alt="Profile views" /></a>
-<a href="https://github.com/Dung092005?tab=repositories"><img src="https://img.shields.io/badge/Repos-public-c4b5fd?style=for-the-badge&logo=github&logoColor=1e0a4a&labelColor=1e0a4a" alt="Repos" /></a>
+<a href="https://github.com/Dung092005?tab=followers"><img src="https://img.shields.io/github/followers/Dung092005?style=for-the-badge&logo=github&color=0077b6&labelColor=03045e" alt="GitHub followers" /></a>
+<a href="https://github.com/Dung092005"><img src="https://komarev.com/ghpvc/?username=dung092005&label=Profile%20views&color=00b4d8&style=for-the-badge&labelColor=03045e" alt="Profile views" /></a>
+<a href="https://github.com/Dung092005?tab=repositories"><img src="https://img.shields.io/badge/Repos-public-48cae4?style=for-the-badge&logo=github&logoColor=03045e&labelColor=03045e" alt="Repos" /></a>
 </p>
 
 </div>
@@ -27,16 +27,16 @@
 <div align="center">
 
 <p>
-<img src="https://img.shields.io/badge/GPA-3.5%20%2F%204.0-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1e0a4a" alt="GPA" />
-<img src="https://img.shields.io/badge/University-USTH%20%C2%B7%20B.Sc%20ICT-8b5cf6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e0a4a" alt="USTH" />
-<img src="https://img.shields.io/badge/Graduation-2027-a78bfa?style=for-the-badge&logo=academia&logoColor=white&labelColor=1e0a4a" alt="Graduation" />
-<img src="https://img.shields.io/badge/Focus-RAG%20%C2%B7%20LLM%20%C2%B7%20Vision-c4b5fd?style=for-the-badge&logo=openai&logoColor=1e0a4a&labelColor=1e0a4a" alt="Focus" />
-<img src="https://img.shields.io/badge/Base-Hanoi%2C%20Vietnam-ddd6fe?style=for-the-badge&logo=googlemaps&logoColor=1e0a4a&labelColor=1e0a4a" alt="Location" />
+<img src="https://img.shields.io/badge/GPA-3.5%20%2F%204.0-0077b6?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=03045e" alt="GPA" />
+<img src="https://img.shields.io/badge/University-USTH%20%C2%B7%20B.Sc%20ICT-0096c7?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=03045e" alt="USTH" />
+<img src="https://img.shields.io/badge/Graduation-2027-00b4d8?style=for-the-badge&logo=academia&logoColor=white&labelColor=03045e" alt="Graduation" />
+<img src="https://img.shields.io/badge/Focus-RAG%20%C2%B7%20LLM%20%C2%B7%20Vision-48cae4?style=for-the-badge&logo=openai&logoColor=03045e&labelColor=03045e" alt="Focus" />
+<img src="https://img.shields.io/badge/Base-Hanoi%2C%20Vietnam-90e0ef?style=for-the-badge&logo=googlemaps&logoColor=03045e&labelColor=03045e" alt="Location" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/🏅%20Scholarship-Academic%20Encouragement%20(USTH)-f59e0b?style=flat-square&labelColor=1e0a4a" alt="Academic Encouragement Scholarship" />
-<img src="https://img.shields.io/badge/🏅%20Scholarship-Hardship%20Overcoming%20(USTH)-f59e0b?style=flat-square&labelColor=1e0a4a" alt="Hardship Overcoming Scholarship" />
+<img src="https://img.shields.io/badge/🏅%20Scholarship-Academic%20Encouragement%20(USTH)-f59e0b?style=flat-square&labelColor=03045e" alt="Academic Encouragement Scholarship" />
+<img src="https://img.shields.io/badge/🏅%20Scholarship-Hardship%20Overcoming%20(USTH)-f59e0b?style=flat-square&labelColor=03045e" alt="Hardship Overcoming Scholarship" />
 </p>
 
 **Portfolio · CV · Projects →** [**nguyen-tien-dung.vercel.app**](https://nguyen-tien-dung.vercel.app/)
@@ -161,7 +161,7 @@
 <img src="https://img.shields.io/badge/Hugging%20Face-ffd21e?style=flat-square&logo=huggingface&logoColor=000" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Transformers-ff9d00?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" />
 <img src="https://img.shields.io/badge/MLflow-0194e2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-<img src="https://img.shields.io/badge/Pinecone-7c3aed?style=flat-square&labelColor=1e0a4a" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Pinecone-0077b6?style=flat-square&labelColor=03045e" alt="Pinecone" />
 <img src="https://img.shields.io/badge/YOLOv8-00ffff?style=flat-square&logo=yolo&logoColor=000" alt="YOLOv8" />
 <img src="https://img.shields.io/badge/TensorRT-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
 <img src="https://img.shields.io/badge/Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
@@ -205,8 +205,8 @@ For demos, stack and write-ups → [**nguyen-tien-dung.vercel.app**](https://ngu
 
 <div align="center">
 
-<sub>Widgets drawn nightly from real GitHub data by <a href="https://github.com/billtruong003/git-profile-awaken">Git Profile Awaken</a> · Theme: Solo Leveling</sub>
+<sub>Widgets drawn nightly from real GitHub data by <a href="https://github.com/billtruong003/git-profile-awaken">Git Profile Awaken</a> · Theme: Frost Elf</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:3b0a8a,100:0b0220&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,50:0077b6,100:03045e&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
