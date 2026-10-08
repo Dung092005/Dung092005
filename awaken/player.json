@@ -2,8 +2,8 @@
   "login": "Dung092005",
   "level": 6,
   "overall": "A",
-  "overallPercentile": 0.9373648104111979,
-  "layout": "default",
+  "overallPercentile": 0.9375054728400407,
+  "layout": "custom",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 139,
-      "rank": "C",
-      "percentile": 0.7485346569894222
+      "value": 141,
+      "rank": "B",
+      "percentile": 0.7514358869330818
     },
     {
       "code": "AGI",
@@ -48,7 +48,15 @@
       "percentile": 0.8823467386925528
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "C",
+      "to": "B",
+      "at": "2026-10-08T05:14:31.021Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 139
+      "value": 141
     },
     {
       "id": "unbroken",
@@ -77,8 +85,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 30
+      "tier": 1,
+      "value": 29
     },
     {
       "id": "early-bird",
@@ -88,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 21
+      "value": 20
     },
     {
       "id": "gate-opener",
@@ -195,5 +203,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-08T05:00:40.687Z"
+  "syncedAt": "2026-10-08T05:14:31.021Z"
 }
