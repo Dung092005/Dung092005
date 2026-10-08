@@ -1,0 +1,73 @@
+{
+  "username": "Dung092005",
+  "layout": "default",
+  "theme": "solo_leveling",
+  "title": "auto",
+  "activity": "arise",
+  "icons": "rune",
+  "motion": "full",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "hours": true,
+  "banner": {
+    "lines": [
+      "SYSTEM NOTIFICATION",
+      "Player Nguyễn Tiến Dũng has awakened.",
+      "Class · AI / ML Engineer — CV · NLP · Generative AI"
+    ],
+    "style": "system"
+  },
+  "bio": {
+    "role": "ICT Undergraduate @ USTH",
+    "focus": "AI / ML · Computer Vision · NLP · GenAI",
+    "location": "Hanoi, Vietnam",
+    "about": "Building reproducible AI pipelines and shippable demos across Computer Vision, NLP, and Generative AI."
+  },
+  "career": [
+    {
+      "role": "B.Sc ICT Student",
+      "org": "USTH",
+      "years": "2023–2027",
+      "current": true
+    }
+  ],
+  "cv": "https://nguyen-tien-dung.vercel.app/",
+  "socials": [
+    {
+      "type": "website",
+      "url": "https://nguyen-tien-dung.vercel.app/",
+      "label": "Portfolio"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/Dung092005",
+      "label": "GitHub"
+    },
+    {
+      "type": "email",
+      "url": "mailto:dung09122005@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "arsenal": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "NumPy",
+    "OpenCV",
+    "FastAPI",
+    "LangChain",
+    "React",
+    "Node.js",
+    "C",
+    "C++",
+    "Java",
+    "Git",
+    "MLflow"
+  ],
+  "spotlight": [
+    "chatbot_deep_research",
+    "Rag_pipeline_chatbot_luat_lao_dong",
+    "Discord_Study_Copilot",
+    "Cloud-Fraud-Detection-Platform-on-AWS-"
+  ]
+}
