@@ -34,10 +34,10 @@
 </defs>
 <path d="M18 4H196V38L182 52H4V18Z" fill="#ffffff"/>
 
-<path d="M18.4 4.8H195.3V37.5L181.6 51.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
-<path class="breathe" d="M185 1H199V15M1 41V55H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
-<path d="M19 12H46V39L41 44H14V17Z" fill="#f4f7fc"/><use href="#i-website" x="21" y="19" width="18" height="18" fill="#0d1830"/>
-<text x="56" y="26" class="strong" fill="#0d1830">Website</text>
-<text x="56" y="41" class="code" fill="#4a5a7c">Portfolio</text>
-<path d="M178 25h7v7h-1.6v-4.3l-5.3 5.3-1.1-1.1 5.3-5.3h-4.3Z" fill="#1f5fd6"/>
+<path d="M18.4 4.8H195.3V37.5L181.6 51.3H4.8V18.4Z" fill="none" stroke="#6f95a3" stroke-width="1.5"/>
+<path class="breathe" d="M185 1H199V15M1 41V55H15" fill="none" stroke="#0a78a0" stroke-width="2"/>
+<path d="M19 12H46V39L41 44H14V17Z" fill="#f2fafd"/><use href="#i-website" x="21" y="19" width="18" height="18" fill="#08303f"/>
+<text x="56" y="26" class="strong" fill="#08303f">Website</text>
+<text x="56" y="41" class="code" fill="#456b7b">Portfolio</text>
+<path d="M178 25h7v7h-1.6v-4.3l-5.3 5.3-1.1-1.1 5.3-5.3h-4.3Z" fill="#0a78a0"/>
 </svg>

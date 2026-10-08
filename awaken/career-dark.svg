@@ -32,27 +32,27 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 
 </defs>
-<path d="M18 4H416V262L402 276H4V18Z" fill="#0b1426"/>
-<path d="M18 4H416V40H4V18Z" fill="#111d36"/>
-<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#1c2c4f"/>
-<text x="210" y="27" class="wtitle" fill="#3d8bff" text-anchor="middle">[ CAREER LOG ]</text>
-<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#3566b8" stroke-width="1.5"/>
-<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
-<text x="20" y="62" class="label" fill="#8a9bc0">QUESTS COMPLETED</text>
-<text x="400" y="62" class="caption" fill="#8a9bc0" text-anchor="end">3 quests</text>
-<rect x="20" y="78" width="92" height="20" fill="#3d8bff"/><text x="66" y="92" class="code" fill="#060a14" text-anchor="middle">IN PROGRESS</text>
-<text x="124" y="86" class="strong" fill="#e6edf7">B.Sc ICT · GPA 3.5/4.0 ·…</text>
-<text x="124" y="102" class="caption" fill="#8a9bc0">USTH · Univ. of Sci. &amp; Te…</text>
-<text x="400" y="92" class="caption" fill="#8a9bc0" text-anchor="end">2023 – 2027</text>
-<line x1="20" y1="112.5" x2="400" y2="112.5" stroke="#1c2c4f"/><rect x="20.5" y="122.5" width="91" height="19" fill="none" stroke="#1c2c4f"/><text x="66" y="136" class="code" fill="#8a9bc0" text-anchor="middle">CLEARED</text>
-<text x="124" y="130" class="strong" fill="#e6edf7">Academic Encouragement Schola…</text>
-<text x="124" y="146" class="caption" fill="#8a9bc0">USTH</text>
-<text x="400" y="136" class="caption" fill="#8a9bc0" text-anchor="end">Awarded</text>
-<line x1="20" y1="156.5" x2="400" y2="156.5" stroke="#1c2c4f"/><rect x="20.5" y="166.5" width="91" height="19" fill="none" stroke="#1c2c4f"/><text x="66" y="180" class="code" fill="#8a9bc0" text-anchor="middle">CLEARED</text>
-<text x="124" y="174" class="strong" fill="#e6edf7">Hardship Overcoming Scholarsh…</text>
-<text x="124" y="190" class="caption" fill="#8a9bc0">USTH</text>
-<text x="400" y="180" class="caption" fill="#8a9bc0" text-anchor="end">Awarded</text>
-<line x1="20" y1="200.5" x2="400" y2="200.5" stroke="#1c2c4f"/>
-<text x="20" y="258" class="caption" fill="#3d8bff">FULL RÉSUMÉ: nguyen-tien-dung.verce…</text><path d="M286 251h7v7h-1.6v-4.3l-5.3 5.3-1.1-1.1 5.3-5.3h-4.3Z" fill="#3d8bff"/>
-<text x="400" y="258" class="code" fill="#8a9bc0" text-anchor="end">@Dung092005</text>
+<path d="M18 4H416V262L402 276H4V18Z" fill="#0a1d29"/>
+<path d="M18 4H416V40H4V18Z" fill="#152834"/>
+<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#253743"/>
+<text x="210" y="27" class="wtitle" fill="#5fd4ff" text-anchor="middle">[ CAREER LOG ]</text>
+<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#4a7388" stroke-width="1.5"/>
+<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#5fd4ff" stroke-width="2" filter="url(#glow)"/>
+<text x="20" y="62" class="label" fill="#8fb6c9">QUESTS COMPLETED</text>
+<text x="400" y="62" class="caption" fill="#8fb6c9" text-anchor="end">3 quests</text>
+<rect x="20" y="78" width="92" height="20" fill="#5fd4ff"/><text x="66" y="92" class="code" fill="#000000" text-anchor="middle">IN PROGRESS</text>
+<text x="124" y="86" class="strong" fill="#e8f8ff">B.Sc ICT · GPA 3.5/4.0 ·…</text>
+<text x="124" y="102" class="caption" fill="#8fb6c9">USTH · Univ. of Sci. &amp; Te…</text>
+<text x="400" y="92" class="caption" fill="#8fb6c9" text-anchor="end">2023 – 2027</text>
+<line x1="20" y1="112.5" x2="400" y2="112.5" stroke="#253743"/><rect x="20.5" y="122.5" width="91" height="19" fill="none" stroke="#253743"/><text x="66" y="136" class="code" fill="#8fb6c9" text-anchor="middle">CLEARED</text>
+<text x="124" y="130" class="strong" fill="#e8f8ff">Academic Encouragement Schola…</text>
+<text x="124" y="146" class="caption" fill="#8fb6c9">USTH</text>
+<text x="400" y="136" class="caption" fill="#8fb6c9" text-anchor="end">Awarded</text>
+<line x1="20" y1="156.5" x2="400" y2="156.5" stroke="#253743"/><rect x="20.5" y="166.5" width="91" height="19" fill="none" stroke="#253743"/><text x="66" y="180" class="code" fill="#8fb6c9" text-anchor="middle">CLEARED</text>
+<text x="124" y="174" class="strong" fill="#e8f8ff">Hardship Overcoming Scholarsh…</text>
+<text x="124" y="190" class="caption" fill="#8fb6c9">USTH</text>
+<text x="400" y="180" class="caption" fill="#8fb6c9" text-anchor="end">Awarded</text>
+<line x1="20" y1="200.5" x2="400" y2="200.5" stroke="#253743"/>
+<text x="20" y="258" class="caption" fill="#5fd4ff">FULL RÉSUMÉ: nguyen-tien-dung.verce…</text><path d="M286 251h7v7h-1.6v-4.3l-5.3 5.3-1.1-1.1 5.3-5.3h-4.3Z" fill="#5fd4ff"/>
+<text x="400" y="258" class="code" fill="#8fb6c9" text-anchor="end">@Dung092005</text>
 </svg>

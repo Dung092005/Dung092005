@@ -40,10 +40,10 @@
 </defs>
 <path d="M18 4H836V122L822 136H4V18Z" fill="#ffffff"/>
 
-<path d="M18.4 4.8H835.3V121.5L821.5 135.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
-<path class="breathe" d="M825 1H839V15M1 125V139H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
-<text x="28" y="28" class="label" fill="#1f5fd6">[ PLAYER ]</text><text x="812" y="28" class="code" fill="#4a5a7c" text-anchor="end">LV. 6 · RANK A</text>
-<text x="28" y="84" class="hero" fill="#0d1830" style="font-size:44px;letter-spacing:6px">[ SYSTEM NOTIFICATION ]</text><clipPath id="bn1a"><rect class="bn1ca" x="18" y="38" width="804" height="14"/></clipPath><clipPath id="bn1b"><rect class="bn1cb" x="18" y="38" width="804" height="12"/></clipPath>
+<path d="M18.4 4.8H835.3V121.5L821.5 135.3H4.8V18.4Z" fill="none" stroke="#6f95a3" stroke-width="1.5"/>
+<path class="breathe" d="M825 1H839V15M1 125V139H15" fill="none" stroke="#0a78a0" stroke-width="2"/>
+<text x="28" y="28" class="label" fill="#0a78a0">[ PLAYER ]</text><text x="812" y="28" class="code" fill="#456b7b" text-anchor="end">LV. 6 · RANK A</text>
+<text x="28" y="84" class="hero" fill="#08303f" style="font-size:44px;letter-spacing:6px">[ SYSTEM NOTIFICATION ]</text><clipPath id="bn1a"><rect class="bn1ca" x="18" y="38" width="804" height="14"/></clipPath><clipPath id="bn1b"><rect class="bn1cb" x="18" y="38" width="804" height="12"/></clipPath>
 <g clip-path="url(#bn1a)"><text x="28" y="84" class="hero bn1ja" fill="#00788f" style="font-size:44px;letter-spacing:6px">[ SYSTEM NOTIFICATION ]</text></g><g clip-path="url(#bn1b)"><text x="28" y="84" class="hero bn1jb" fill="#c8213f" style="font-size:44px;letter-spacing:6px">[ SYSTEM NOTIFICATION ]</text></g>
-<text x="28" y="114" class="body" fill="#4a5a7c">Player NGUYEN TIEN DUNG has awakened.</text>
+<text x="28" y="114" class="body" fill="#456b7b">Player NGUYEN TIEN DUNG has awakened.</text>
 </svg>

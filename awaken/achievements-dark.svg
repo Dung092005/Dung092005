@@ -32,265 +32,265 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 <symbol id="i-fin" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2 14C4 9 7 3 13 1.5c-1 3.5-1 7 .5 12.5Zm4-1.6h5.2c-.6-2.4-.8-4.8-.4-7.2C8.6 7 7.1 9.6 6 12.4Z"/></symbol><symbol id="i-bolt" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M9.5 1 3 9h4l-1 6 6.5-8.5h-4Z"/></symbol><symbol id="i-dice" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2 2h12v12H2Zm2.2 1.6a1.2 1.2 0 1 0 .01 0Zm7.6 0a1.2 1.2 0 1 0 .01 0ZM8 6.8a1.2 1.2 0 1 0 .01 0ZM4.2 10a1.2 1.2 0 1 0 .01 0Zm7.6 0a1.2 1.2 0 1 0 .01 0Z"/></symbol><symbol id="i-sword" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M13.5 1 15 2.5 7 10.5 5.5 9ZM4 9.5 6.5 12l-1.3 1.3-.9-.9-1.9 1.9-.7-.7 1.9-1.9-.9-.9Z"/></symbol><symbol id="i-flame" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1c1 3 4 4.5 4 8.5 0 3-1.8 5.5-4 5.5S4 12.5 4 9.5c0-2 1-3 1.6-4.3.4 1.4 1 2.2 1.8 2.4C7 5.2 7.4 3 8 1Z"/></symbol><symbol id="i-moon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M10.5 1.5A6.5 6.5 0 1 0 14.5 11a5.5 5.5 0 1 1-4-9.5Z"/></symbol><symbol id="i-sun" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 4.5a3.5 3.5 0 1 1-.01 0ZM7.25 0h1.5v3h-1.5Zm0 13h1.5v3h-1.5ZM0 7.25h3v1.5H0Zm13 0h3v1.5h-3ZM2.1 3.2l1.1-1.1 2.1 2.1-1.1 1.1Zm8.6 8.6 1.1-1.1 2.1 2.1-1.1 1.1ZM2.1 12.8l2.1-2.1 1.1 1.1-2.1 2.1Zm8.6-8.6 2.1-2.1 1.1 1.1-2.1 2.1Z"/></symbol><symbol id="i-shield" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1l6 2v5c0 3.5-2.5 6-6 7-3.5-1-6-3.5-6-7V3Z"/></symbol><symbol id="i-gate" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2 15V6c0-3 2.7-5 6-5s6 2 6 5v9h-3V7c0-1.7-1.3-3-3-3S5 5.3 5 7v8Z"/></symbol><symbol id="i-swords" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.5 2.5l1-1L9 8l-1 1Zm13 0-1-1L7 8l1 1ZM3.5 11 5 12.5 2.5 15 1 13.5Zm9 0L11 12.5l2.5 2.5 1.5-1.5Z"/></symbol><symbol id="i-target" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1a7 7 0 1 0 .01 0Zm0 2.2a4.8 4.8 0 1 1-.01 0Zm0 2.3a2.5 2.5 0 1 0 .01 0Z"/></symbol><symbol id="i-cross" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 1h4v5h5v4h-5v5H6v-5H1V6h5Z"/></symbol><symbol id="i-scroll" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2 2h5c.6 0 1 .4 1 1v11c0-.6-.4-1-1-1H2Zm12 0H9c-.6 0-1 .4-1 1v11c0-.6.4-1 1-1h5Z"/></symbol><symbol id="i-star" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1l2.1 4.6 4.9.5-3.7 3.3 1.1 4.9L8 11.8l-4.4 2.5 1.1-4.9L1 6.1l4.9-.5Z"/></symbol><symbol id="i-beacon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 4.2a2 2 0 1 1-.01 0ZM3.8 1.5l1.1 1.1a4.5 4.5 0 0 0 0 6.8L3.8 10.5a6 6 0 0 1 0-9Zm8.4 0a6 6 0 0 1 0 9l-1.1-1.1a4.5 4.5 0 0 0 0-6.8ZM7.2 8h1.6v7H7.2Z"/></symbol><symbol id="i-banner" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3 1h1.5v14H3ZM4.5 2H14l-2.5 3.5L14 9H4.5Z"/></symbol><symbol id="i-hourglass" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3 1h10v2.5L9.5 8l3.5 4.5V15H3v-2.5L6.5 8 3 3.5Z"/></symbol><symbol id="i-axe" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 1h1.5v14H6Zm1.5 1c3.5 0 6.5 1.5 6.5 5s-3 5-6.5 5Z"/></symbol><symbol id="i-calendar" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.5 2.5h13v12h-13ZM3 6.5v6.5h10V6.5Zm1.6 3.1 1-1 1.4 1.4 3.4-3.4 1 1-4.4 4.4Z"/></symbol><symbol id="i-check" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.5 8.5 3 7l3 3 7-7 1.5 1.5L6 13Z"/></symbol><symbol id="i-crown" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 4l3.5 3L8 2l3.5 5L15 4l-1.5 9h-11Zm2 10.2h10V15H3Z"/></symbol><symbol id="i-boss" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 4 4.5 1 8 3l3.5-2 2 3V8c0 1.6-.8 2.9-2 3.6V14h-7v-2.4c-1.2-.7-2-2-2-3.6ZM5 6.5h2V9H5Zm4 0h2V9H9Z"/></symbol><symbol id="i-crystal" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1l5 5-5 9-5-9Zm0 2.4L5.4 6 8 10.8 10.6 6Z"/></symbol><symbol id="i-lock" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 7V5a4 4 0 0 1 8 0v2h1v8H3V7Zm1.8 0h4.4V5a2.2 2.2 0 0 0-4.4 0Z"/></symbol>
 </defs>
-<path d="M18 4H836V646L822 660H4V18Z" fill="#0b1426"/>
-<path d="M18 4H836V40H4V18Z" fill="#111d36"/>
-<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#1c2c4f"/>
-<text x="420" y="27" class="wtitle" fill="#3d8bff" text-anchor="middle">[ ACHIEVEMENTS ]</text>
-<path d="M18.4 4.8H835.3V645.5L821.5 659.3H4.8V18.4Z" fill="none" stroke="#3566b8" stroke-width="1.5"/>
-<path class="breathe" d="M825 1H839V15M1 649V663H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
-<text x="20" y="64" class="label" fill="#8a9bc0">EQUIPPED TITLE</text>
-<text x="20" y="92" class="name flicker" fill="#3d8bff" filter="url(#glow-lg)">Polyglot</text>
-<text x="820" y="64" class="label" fill="#8a9bc0" text-anchor="end">UNLOCKED</text>
-<text x="820" y="92" class="value" fill="#e6edf7" text-anchor="end">12 / 25</text>
+<path d="M18 4H836V646L822 660H4V18Z" fill="#0a1d29"/>
+<path d="M18 4H836V40H4V18Z" fill="#152834"/>
+<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#253743"/>
+<text x="420" y="27" class="wtitle" fill="#5fd4ff" text-anchor="middle">[ ACHIEVEMENTS ]</text>
+<path d="M18.4 4.8H835.3V645.5L821.5 659.3H4.8V18.4Z" fill="none" stroke="#4a7388" stroke-width="1.5"/>
+<path class="breathe" d="M825 1H839V15M1 649V663H15" fill="none" stroke="#5fd4ff" stroke-width="2" filter="url(#glow)"/>
+<text x="20" y="64" class="label" fill="#8fb6c9">EQUIPPED TITLE</text>
+<text x="20" y="92" class="name flicker" fill="#5fd4ff" filter="url(#glow-lg)">Polyglot</text>
+<text x="820" y="64" class="label" fill="#8fb6c9" text-anchor="end">UNLOCKED</text>
+<text x="820" y="92" class="value" fill="#e8f8ff" text-anchor="end">12 / 25</text>
 <g>
-<path d="M28 108H212.5V168L204.5 176H20V116Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M36 118H70V152L64 158H30V124Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M28 108H212.5V168L204.5 176H20V116Z" fill="#152834" stroke="#4a7388"/>
+<path d="M36 118H70V152L64 158H30V124Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-fin" x="40" y="128" width="20" height="20" fill="#e6edf7"/>
-<text x="80" y="130" class="strong" fill="#e6edf7">Pull Shark</text>
-<path transform="translate(37 166)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(47 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(57 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="149" class="caption" fill="#e6edf7">3 / 16</text>
-<text x="80" y="165" class="code" fill="#8a9bc0">PRS MERGED</text>
+<use href="#i-fin" x="40" y="128" width="20" height="20" fill="#e8f8ff"/>
+<text x="80" y="130" class="strong" fill="#e8f8ff">Pull Shark</text>
+<path transform="translate(37 166)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(47 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(57 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="149" class="caption" fill="#e8f8ff">3 / 16</text>
+<text x="80" y="165" class="code" fill="#8fb6c9">PRS MERGED</text>
 </g>
 <g>
-<path d="M230.5 108H415V168L407 176H222.5V116Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M238.5 118H272.5V152L266.5 158H232.5V124Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M230.5 108H415V168L407 176H222.5V116Z" fill="#152834" stroke="#4a7388"/>
+<path d="M238.5 118H272.5V152L266.5 158H232.5V124Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-bolt" x="242.5" y="128" width="20" height="20" fill="#e6edf7"/>
-<text x="282.5" y="130" class="strong" fill="#e6edf7">Quickdraw</text>
-<path transform="translate(239.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(249.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="149" class="caption" fill="#e6edf7">1 / 5</text>
-<text x="282.5" y="165" class="code" fill="#8a9bc0">CLOSED IN 5 MIN</text>
+<use href="#i-bolt" x="242.5" y="128" width="20" height="20" fill="#e8f8ff"/>
+<text x="282.5" y="130" class="strong" fill="#e8f8ff">Quickdraw</text>
+<path transform="translate(239.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(249.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(259.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="282.5" y="149" class="caption" fill="#e8f8ff">1 / 5</text>
+<text x="282.5" y="165" class="code" fill="#8fb6c9">CLOSED IN 5 MIN</text>
 </g>
 <g>
-<path d="M433 108H617.5V168L609.5 176H425V116Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M441 118H475V152L469 158H435V124Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M433 108H617.5V168L609.5 176H425V116Z" fill="#152834" stroke="#4a7388"/>
+<path d="M441 118H475V152L469 158H435V124Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-dice" x="445" y="128" width="20" height="20" fill="#e6edf7"/>
-<text x="485" y="130" class="strong" fill="#e6edf7">YOLO</text>
-<path transform="translate(442 166)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(452 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(462 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="485" y="149" class="caption" fill="#e6edf7">3 / 10</text>
-<text x="485" y="165" class="code" fill="#8a9bc0">MERGED, NO REVIEW</text>
+<use href="#i-dice" x="445" y="128" width="20" height="20" fill="#e8f8ff"/>
+<text x="485" y="130" class="strong" fill="#e8f8ff">YOLO</text>
+<path transform="translate(442 166)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(452 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="485" y="149" class="caption" fill="#e8f8ff">3 / 10</text>
+<text x="485" y="165" class="code" fill="#8fb6c9">MERGED, NO REVIEW</text>
 </g>
 <g>
-<path d="M635.5 108H820V168L812 176H627.5V116Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M643.5 118H677.5V152L671.5 158H637.5V124Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M635.5 108H820V168L812 176H627.5V116Z" fill="#152834" stroke="#4a7388"/>
+<path d="M643.5 118H677.5V152L671.5 158H637.5V124Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-sword" x="647.5" y="128" width="20" height="20" fill="#e6edf7"/>
-<text x="687.5" y="130" class="strong" fill="#e6edf7">Relentless</text>
-<path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="149" class="caption" fill="#e6edf7">141 / 1,000</text>
-<text x="687.5" y="165" class="code" fill="#8a9bc0">COMMITS</text>
+<use href="#i-sword" x="647.5" y="128" width="20" height="20" fill="#e8f8ff"/>
+<text x="687.5" y="130" class="strong" fill="#e8f8ff">Relentless</text>
+<path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="687.5" y="149" class="caption" fill="#e8f8ff">142 / 1,000</text>
+<text x="687.5" y="165" class="code" fill="#8fb6c9">COMMITS</text>
 </g>
 <g>
-<path d="M28 184H212.5V244L204.5 252H20V192Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M36 194H70V228L64 234H30V200Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M28 184H212.5V244L204.5 252H20V192Z" fill="#152834" stroke="#4a7388"/>
+<path d="M36 194H70V228L64 234H30V200Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-flame" x="40" y="204" width="20" height="20" fill="#e6edf7"/>
-<text x="80" y="206" class="strong" fill="#e6edf7">Unbroken</text>
-<path transform="translate(37 242)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(47 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(57 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="225" class="caption" fill="#e6edf7">13 / 30</text>
-<text x="80" y="241" class="code" fill="#8a9bc0">DAY STREAK</text>
+<use href="#i-flame" x="40" y="204" width="20" height="20" fill="#e8f8ff"/>
+<text x="80" y="206" class="strong" fill="#e8f8ff">Unbroken</text>
+<path transform="translate(37 242)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(47 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(57 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="225" class="caption" fill="#e8f8ff">13 / 30</text>
+<text x="80" y="241" class="code" fill="#8fb6c9">DAY STREAK</text>
 </g>
 <g>
-<path d="M230.5 184H415V244L407 252H222.5V192Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M238.5 194H272.5V228L266.5 234H232.5V200Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M230.5 184H415V244L407 252H222.5V192Z" fill="#152834" stroke="#4a7388"/>
+<path d="M238.5 194H272.5V228L266.5 234H232.5V200Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-moon" x="242.5" y="204" width="20" height="20" fill="#e6edf7"/>
-<text x="282.5" y="206" class="strong" fill="#e6edf7">Night Owl</text>
-<path transform="translate(239.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(249.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="225" class="caption" fill="#e6edf7">29 / 30</text>
-<text x="282.5" y="241" class="code" fill="#8a9bc0">% COMMITS 22–05H</text>
+<use href="#i-moon" x="242.5" y="204" width="20" height="20" fill="#e8f8ff"/>
+<text x="282.5" y="206" class="strong" fill="#e8f8ff">Night Owl</text>
+<path transform="translate(239.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(249.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(259.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="282.5" y="225" class="caption" fill="#e8f8ff">29 / 30</text>
+<text x="282.5" y="241" class="code" fill="#8fb6c9">% COMMITS 22–05H</text>
 </g>
 <g>
-<path d="M433 184H617.5V244L609.5 252H425V192Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M441 194H475V228L469 234H435V200Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M433 184H617.5V244L609.5 252H425V192Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M441 194H475V228L469 234H435V200Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="445" y="204" width="20" height="20" fill="#8a9bc0"/>
-<text x="485" y="206" class="strong" fill="#8a9bc0">Early Bird</text>
-<path transform="translate(442 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(452 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(462 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="485" y="225" class="caption" fill="#8a9bc0">3 / 15</text>
-<text x="485" y="241" class="code" fill="#8a9bc0">% COMMITS 05–09H</text>
+<use href="#i-lock" x="445" y="204" width="20" height="20" fill="#8fb6c9"/>
+<text x="485" y="206" class="strong" fill="#8fb6c9">Early Bird</text>
+<path transform="translate(442 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(452 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="485" y="225" class="caption" fill="#8fb6c9">3 / 15</text>
+<text x="485" y="241" class="code" fill="#8fb6c9">% COMMITS 05–09H</text>
 </g>
 <g>
-<path d="M635.5 184H820V244L812 252H627.5V192Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M643.5 194H677.5V228L671.5 234H637.5V200Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M635.5 184H820V244L812 252H627.5V192Z" fill="#152834" stroke="#4a7388"/>
+<path d="M643.5 194H677.5V228L671.5 234H637.5V200Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-shield" x="647.5" y="204" width="20" height="20" fill="#e6edf7"/>
-<text x="687.5" y="206" class="strong" fill="#e6edf7">Weekend Warrior</text>
-<path transform="translate(644.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(654.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(664.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="225" class="caption" fill="#e6edf7">20 / 30</text>
-<text x="687.5" y="241" class="code" fill="#8a9bc0">% ON WEEKENDS</text>
+<use href="#i-shield" x="647.5" y="204" width="20" height="20" fill="#e8f8ff"/>
+<text x="687.5" y="206" class="strong" fill="#e8f8ff">Weekend Warrior</text>
+<path transform="translate(644.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(654.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(664.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="687.5" y="225" class="caption" fill="#e8f8ff">20 / 30</text>
+<text x="687.5" y="241" class="code" fill="#8fb6c9">% ON WEEKENDS</text>
 </g>
 <g>
-<path d="M28 260H212.5V320L204.5 328H20V268Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M36 270H70V304L64 310H30V276Z" fill="#060a14" stroke="#3d8bff" stroke-width="2"/>
+<path d="M28 260H212.5V320L204.5 328H20V268Z" fill="#152834" stroke="#4a7388"/>
+<path d="M36 270H70V304L64 310H30V276Z" fill="#04121a" stroke="#5fd4ff" stroke-width="2"/>
 
-<use href="#i-gate" x="40" y="280" width="20" height="20" fill="#3d8bff"/>
-<text x="80" y="282" class="strong" fill="#e6edf7">Gate Opener</text>
-<path transform="translate(37 318)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(47 318)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(57 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="301" class="caption" fill="#e6edf7">45 / 50</text>
-<text x="80" y="317" class="code" fill="#8a9bc0">REPOS THIS YEAR</text>
+<use href="#i-gate" x="40" y="280" width="20" height="20" fill="#5fd4ff"/>
+<text x="80" y="282" class="strong" fill="#e8f8ff">Gate Opener</text>
+<path transform="translate(37 318)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(47 318)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(57 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="301" class="caption" fill="#e8f8ff">45 / 50</text>
+<text x="80" y="317" class="code" fill="#8fb6c9">REPOS THIS YEAR</text>
 </g>
 <g>
-<path d="M230.5 260H415V320L407 328H222.5V268Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M238.5 270H272.5V304L266.5 310H232.5V276Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M230.5 260H415V320L407 328H222.5V268Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M238.5 270H272.5V304L266.5 310H232.5V276Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="242.5" y="280" width="20" height="20" fill="#8a9bc0"/>
-<text x="282.5" y="282" class="strong" fill="#8a9bc0">Raider</text>
-<path transform="translate(239.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(249.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="301" class="caption" fill="#8a9bc0">0 / 1</text>
-<text x="282.5" y="317" class="code" fill="#8a9bc0">PRS MERGED OUT</text>
+<use href="#i-lock" x="242.5" y="280" width="20" height="20" fill="#8fb6c9"/>
+<text x="282.5" y="282" class="strong" fill="#8fb6c9">Raider</text>
+<path transform="translate(239.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(249.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(259.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="282.5" y="301" class="caption" fill="#8fb6c9">0 / 1</text>
+<text x="282.5" y="317" class="code" fill="#8fb6c9">PRS MERGED OUT</text>
 </g>
 <g>
-<path d="M433 260H617.5V320L609.5 328H425V268Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M441 270H475V304L469 310H435V276Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M433 260H617.5V320L609.5 328H425V268Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M441 270H475V304L469 310H435V276Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="445" y="280" width="20" height="20" fill="#8a9bc0"/>
-<text x="485" y="282" class="strong" fill="#8a9bc0">Flawless</text>
-<path transform="translate(442 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(452 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(462 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="485" y="301" class="caption" fill="#8a9bc0">0 / 80</text>
-<text x="485" y="317" class="code" fill="#8a9bc0">% PRS MERGED</text>
+<use href="#i-lock" x="445" y="280" width="20" height="20" fill="#8fb6c9"/>
+<text x="485" y="282" class="strong" fill="#8fb6c9">Flawless</text>
+<path transform="translate(442 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(452 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="485" y="301" class="caption" fill="#8fb6c9">0 / 80</text>
+<text x="485" y="317" class="code" fill="#8fb6c9">% PRS MERGED</text>
 </g>
 <g>
-<path d="M635.5 260H820V320L812 328H627.5V268Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M643.5 270H677.5V304L671.5 310H637.5V276Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M635.5 260H820V320L812 328H627.5V268Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M643.5 270H677.5V304L671.5 310H637.5V276Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="647.5" y="280" width="20" height="20" fill="#8a9bc0"/>
-<text x="687.5" y="282" class="strong" fill="#8a9bc0">Healer</text>
-<path transform="translate(644.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(654.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(664.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="301" class="caption" fill="#8a9bc0">0 / 10</text>
-<text x="687.5" y="317" class="code" fill="#8a9bc0">REVIEWS</text>
+<use href="#i-lock" x="647.5" y="280" width="20" height="20" fill="#8fb6c9"/>
+<text x="687.5" y="282" class="strong" fill="#8fb6c9">Healer</text>
+<path transform="translate(644.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(654.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(664.5 318)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="687.5" y="301" class="caption" fill="#8fb6c9">0 / 10</text>
+<text x="687.5" y="317" class="code" fill="#8fb6c9">REVIEWS</text>
 </g>
 <g>
-<path d="M28 336H212.5V396L204.5 404H20V344Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M36 346H70V380L64 386H30V352Z" fill="#060a14" stroke="#3d8bff" stroke-width="2"/>
+<path d="M28 336H212.5V396L204.5 404H20V344Z" fill="#152834" stroke="#4a7388"/>
+<path d="M36 346H70V380L64 386H30V352Z" fill="#04121a" stroke="#5fd4ff" stroke-width="2"/>
 
-<use href="#i-scroll" x="40" y="356" width="20" height="20" fill="#3d8bff"/>
-<text x="80" y="358" class="strong" fill="#e6edf7">Polyglot</text>
-<path transform="translate(37 394)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(47 394)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(57 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="377" class="caption" fill="#e6edf7">7 / 8</text>
-<text x="80" y="393" class="code" fill="#8a9bc0">LANGUAGES ≥ 1%</text>
+<use href="#i-scroll" x="40" y="356" width="20" height="20" fill="#5fd4ff"/>
+<text x="80" y="358" class="strong" fill="#e8f8ff">Polyglot</text>
+<path transform="translate(37 394)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(47 394)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(57 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="377" class="caption" fill="#e8f8ff">7 / 8</text>
+<text x="80" y="393" class="code" fill="#8fb6c9">LANGUAGES ≥ 1%</text>
 </g>
 <g>
-<path d="M230.5 336H415V396L407 404H222.5V344Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M238.5 346H272.5V380L266.5 386H232.5V352Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M230.5 336H415V396L407 404H222.5V344Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M238.5 346H272.5V380L266.5 386H232.5V352Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="242.5" y="356" width="20" height="20" fill="#8a9bc0"/>
-<text x="282.5" y="358" class="strong" fill="#8a9bc0">Star Collector</text>
-<path transform="translate(239.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(249.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="377" class="caption" fill="#8a9bc0">1 / 10</text>
-<text x="282.5" y="393" class="code" fill="#8a9bc0">STARS</text>
+<use href="#i-lock" x="242.5" y="356" width="20" height="20" fill="#8fb6c9"/>
+<text x="282.5" y="358" class="strong" fill="#8fb6c9">Star Collector</text>
+<path transform="translate(239.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(249.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(259.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="282.5" y="377" class="caption" fill="#8fb6c9">1 / 10</text>
+<text x="282.5" y="393" class="code" fill="#8fb6c9">STARS</text>
 </g>
 <g>
-<path d="M433 336H617.5V396L609.5 404H425V344Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M441 346H475V380L469 386H435V352Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M433 336H617.5V396L609.5 404H425V344Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M441 346H475V380L469 386H435V352Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="445" y="356" width="20" height="20" fill="#8a9bc0"/>
-<text x="485" y="358" class="strong" fill="#8a9bc0">Beacon</text>
-<path transform="translate(442 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(452 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(462 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="485" y="377" class="caption" fill="#8a9bc0">9 / 10</text>
-<text x="485" y="393" class="code" fill="#8a9bc0">FOLLOWERS</text>
+<use href="#i-lock" x="445" y="356" width="20" height="20" fill="#8fb6c9"/>
+<text x="485" y="358" class="strong" fill="#8fb6c9">Beacon</text>
+<path transform="translate(442 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(452 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="485" y="377" class="caption" fill="#8fb6c9">9 / 10</text>
+<text x="485" y="393" class="code" fill="#8fb6c9">FOLLOWERS</text>
 </g>
 <g>
-<path d="M635.5 336H820V396L812 404H627.5V344Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M643.5 346H677.5V380L671.5 386H637.5V352Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M635.5 336H820V396L812 404H627.5V344Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M643.5 346H677.5V380L671.5 386H637.5V352Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="647.5" y="356" width="20" height="20" fill="#8a9bc0"/>
-<text x="687.5" y="358" class="strong" fill="#8a9bc0">Guild Hopper</text>
-<path transform="translate(644.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(654.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(664.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="377" class="caption" fill="#8a9bc0">0 / 1</text>
-<text x="687.5" y="393" class="code" fill="#8a9bc0">ORGANIZATIONS</text>
+<use href="#i-lock" x="647.5" y="356" width="20" height="20" fill="#8fb6c9"/>
+<text x="687.5" y="358" class="strong" fill="#8fb6c9">Guild Hopper</text>
+<path transform="translate(644.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(654.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(664.5 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="687.5" y="377" class="caption" fill="#8fb6c9">0 / 1</text>
+<text x="687.5" y="393" class="code" fill="#8fb6c9">ORGANIZATIONS</text>
 </g>
 <g>
-<path d="M28 412H212.5V472L204.5 480H20V420Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M36 422H70V456L64 462H30V428Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M28 412H212.5V472L204.5 480H20V420Z" fill="#152834" stroke="#4a7388"/>
+<path d="M36 422H70V456L64 462H30V428Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-hourglass" x="40" y="432" width="20" height="20" fill="#e6edf7"/>
-<text x="80" y="434" class="strong" fill="#e6edf7">Veteran</text>
-<path transform="translate(37 470)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(47 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(57 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="453" class="caption" fill="#e6edf7">2 / 3</text>
-<text x="80" y="469" class="code" fill="#8a9bc0">YEARS AWAKENED</text>
+<use href="#i-hourglass" x="40" y="432" width="20" height="20" fill="#e8f8ff"/>
+<text x="80" y="434" class="strong" fill="#e8f8ff">Veteran</text>
+<path transform="translate(37 470)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(47 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(57 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="453" class="caption" fill="#e8f8ff">2 / 3</text>
+<text x="80" y="469" class="code" fill="#8fb6c9">YEARS AWAKENED</text>
 </g>
 <g>
-<path d="M230.5 412H415V472L407 480H222.5V420Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M238.5 422H272.5V456L266.5 462H232.5V428Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M230.5 412H415V472L407 480H222.5V420Z" fill="#152834" stroke="#4a7388"/>
+<path d="M238.5 422H272.5V456L266.5 462H232.5V428Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-axe" x="242.5" y="432" width="20" height="20" fill="#e6edf7"/>
-<text x="282.5" y="434" class="strong" fill="#e6edf7">Berserker</text>
-<path transform="translate(239.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(249.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="453" class="caption" fill="#e6edf7">18 / 30</text>
-<text x="282.5" y="469" class="code" fill="#8a9bc0">IN ONE DAY</text>
+<use href="#i-axe" x="242.5" y="432" width="20" height="20" fill="#e8f8ff"/>
+<text x="282.5" y="434" class="strong" fill="#e8f8ff">Berserker</text>
+<path transform="translate(239.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(249.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(259.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="282.5" y="453" class="caption" fill="#e8f8ff">18 / 30</text>
+<text x="282.5" y="469" class="code" fill="#8fb6c9">IN ONE DAY</text>
 </g>
 <g>
-<path d="M433 412H617.5V472L609.5 480H425V420Z" fill="#111d36" stroke="#3566b8"/>
-<path d="M441 422H475V456L469 462H435V428Z" fill="#060a14" stroke="#3566b8" stroke-width="1"/>
+<path d="M433 412H617.5V472L609.5 480H425V420Z" fill="#152834" stroke="#4a7388"/>
+<path d="M441 422H475V456L469 462H435V428Z" fill="#04121a" stroke="#4a7388" stroke-width="1"/>
 
-<use href="#i-calendar" x="445" y="432" width="20" height="20" fill="#e6edf7"/>
-<text x="485" y="434" class="strong" fill="#e6edf7">Diligent</text>
-<path transform="translate(442 470)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(452 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(462 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="485" y="453" class="caption" fill="#e6edf7">55 / 150</text>
-<text x="485" y="469" class="code" fill="#8a9bc0">ACTIVE DAYS</text>
+<use href="#i-calendar" x="445" y="432" width="20" height="20" fill="#e8f8ff"/>
+<text x="485" y="434" class="strong" fill="#e8f8ff">Diligent</text>
+<path transform="translate(442 470)" d="M0 3 3 0 6 3 3 6Z" fill="#5fd4ff"/><path transform="translate(452 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="485" y="453" class="caption" fill="#e8f8ff">55 / 150</text>
+<text x="485" y="469" class="code" fill="#8fb6c9">ACTIVE DAYS</text>
 </g>
 <g>
-<path d="M635.5 412H820V472L812 480H627.5V420Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M643.5 422H677.5V456L671.5 462H637.5V428Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M635.5 412H820V472L812 480H627.5V420Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M643.5 422H677.5V456L671.5 462H637.5V428Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="647.5" y="432" width="20" height="20" fill="#8a9bc0"/>
-<text x="687.5" y="434" class="strong" fill="#8a9bc0">Daily Grinder</text>
-<path transform="translate(644.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(654.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(664.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="453" class="caption" fill="#8a9bc0">0 / 7</text>
-<text x="687.5" y="469" class="code" fill="#8a9bc0">PERFECT DAYS</text>
+<use href="#i-lock" x="647.5" y="432" width="20" height="20" fill="#8fb6c9"/>
+<text x="687.5" y="434" class="strong" fill="#8fb6c9">Daily Grinder</text>
+<path transform="translate(644.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(654.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(664.5 470)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="687.5" y="453" class="caption" fill="#8fb6c9">0 / 7</text>
+<text x="687.5" y="469" class="code" fill="#8fb6c9">PERFECT DAYS</text>
 </g>
 <g>
-<path d="M28 488H212.5V548L204.5 556H20V496Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M36 498H70V532L64 538H30V504Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M28 488H212.5V548L204.5 556H20V496Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M36 498H70V532L64 538H30V504Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="40" y="508" width="20" height="20" fill="#8a9bc0"/>
-<text x="80" y="510" class="strong" fill="#8a9bc0">Perfect Week</text>
-<path transform="translate(37 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(47 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(57 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="529" class="caption" fill="#8a9bc0">0 / 7</text>
-<text x="80" y="545" class="code" fill="#8a9bc0">PERFECT-DAY RUN</text>
+<use href="#i-lock" x="40" y="508" width="20" height="20" fill="#8fb6c9"/>
+<text x="80" y="510" class="strong" fill="#8fb6c9">Perfect Week</text>
+<path transform="translate(37 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(47 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(57 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="529" class="caption" fill="#8fb6c9">0 / 7</text>
+<text x="80" y="545" class="code" fill="#8fb6c9">PERFECT-DAY RUN</text>
 </g>
 <g>
-<path d="M230.5 488H415V548L407 556H222.5V496Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M238.5 498H272.5V532L266.5 538H232.5V504Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M230.5 488H415V548L407 556H222.5V496Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M238.5 498H272.5V532L266.5 538H232.5V504Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#8a9bc0"/>
-<text x="282.5" y="510" class="strong" fill="#8a9bc0">Quest Hunter</text>
-<path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="529" class="caption" fill="#8a9bc0">2 / 50</text>
-<text x="282.5" y="545" class="code" fill="#8a9bc0">QUESTS CLEARED</text>
+<use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#8fb6c9"/>
+<text x="282.5" y="510" class="strong" fill="#8fb6c9">Quest Hunter</text>
+<path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="282.5" y="529" class="caption" fill="#8fb6c9">2 / 50</text>
+<text x="282.5" y="545" class="code" fill="#8fb6c9">QUESTS CLEARED</text>
 </g>
 <g>
-<path d="M433 488H617.5V548L609.5 556H425V496Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M441 498H475V532L469 538H435V504Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M433 488H617.5V548L609.5 556H425V496Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M441 498H475V532L469 538H435V504Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="445" y="508" width="20" height="20" fill="#8a9bc0"/>
-<text x="485" y="510" class="strong" fill="#8a9bc0">Boss Slayer</text>
-<path transform="translate(442 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(452 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(462 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="485" y="529" class="caption" fill="#8a9bc0">0 / 1</text>
-<text x="485" y="545" class="code" fill="#8a9bc0">WEEKLY BOSSES</text>
+<use href="#i-lock" x="445" y="508" width="20" height="20" fill="#8fb6c9"/>
+<text x="485" y="510" class="strong" fill="#8fb6c9">Boss Slayer</text>
+<path transform="translate(442 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(452 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="485" y="529" class="caption" fill="#8fb6c9">0 / 1</text>
+<text x="485" y="545" class="code" fill="#8fb6c9">WEEKLY BOSSES</text>
 </g>
 <g>
-<path d="M635.5 488H820V548L812 556H627.5V496Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M643.5 498H677.5V532L671.5 538H637.5V504Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M635.5 488H820V548L812 556H627.5V496Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M643.5 498H677.5V532L671.5 538H637.5V504Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="647.5" y="508" width="20" height="20" fill="#8a9bc0"/>
-<text x="687.5" y="510" class="strong" fill="#8a9bc0">Escape Artist</text>
-<path transform="translate(644.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(654.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(664.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="529" class="caption" fill="#8a9bc0">0 / 3</text>
-<text x="687.5" y="545" class="code" fill="#8a9bc0">PENALTY ESCAPES</text>
+<use href="#i-lock" x="647.5" y="508" width="20" height="20" fill="#8fb6c9"/>
+<text x="687.5" y="510" class="strong" fill="#8fb6c9">Escape Artist</text>
+<path transform="translate(644.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(654.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(664.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="687.5" y="529" class="caption" fill="#8fb6c9">0 / 3</text>
+<text x="687.5" y="545" class="code" fill="#8fb6c9">PENALTY ESCAPES</text>
 </g>
 <g>
-<path d="M28 564H212.5V624L204.5 632H20V572Z" fill="#0b1426" stroke="#1c2c4f"/>
-<path d="M36 574H70V608L64 614H30V580Z" fill="#060a14" stroke="#1c2c4f" stroke-width="1"/>
+<path d="M28 564H212.5V624L204.5 632H20V572Z" fill="#0a1d29" stroke="#253743"/>
+<path d="M36 574H70V608L64 614H30V580Z" fill="#04121a" stroke="#253743" stroke-width="1"/>
 
-<use href="#i-lock" x="40" y="584" width="20" height="20" fill="#8a9bc0"/>
-<text x="80" y="586" class="strong" fill="#8a9bc0">Collector</text>
-<path transform="translate(37 622)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(47 622)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(57 622)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="80" y="605" class="caption" fill="#8a9bc0">2 / 4</text>
-<text x="80" y="621" class="code" fill="#8a9bc0">QUEST KINDS</text>
+<use href="#i-lock" x="40" y="584" width="20" height="20" fill="#8fb6c9"/>
+<text x="80" y="586" class="strong" fill="#8fb6c9">Collector</text>
+<path transform="translate(37 622)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(47 622)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(57 622)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
+<text x="80" y="605" class="caption" fill="#8fb6c9">2 / 4</text>
+<text x="80" y="621" class="code" fill="#8fb6c9">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#8a9bc0" text-anchor="end">@Dung092005 · SYNCED 2026-10-08</text>
+<text x="820" y="646" class="code" fill="#8fb6c9" text-anchor="end">@Dung092005 · SYNCED 2026-10-08</text>
 </svg>

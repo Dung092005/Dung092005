@@ -2,7 +2,7 @@
   "login": "Dung092005",
   "level": 6,
   "overall": "A",
-  "overallPercentile": 0.9375054728400407,
+  "overallPercentile": 0.9375750723789085,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 141,
+      "value": 142,
       "rank": "B",
-      "percentile": 0.7514358869330818
+      "percentile": 0.7528647883482276
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 141
+      "value": 142
     },
     {
       "id": "unbroken",
@@ -203,5 +203,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-08T05:14:31.021Z"
+  "syncedAt": "2026-10-08T05:19:48.022Z"
 }

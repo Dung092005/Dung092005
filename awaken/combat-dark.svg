@@ -32,39 +32,39 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 
 </defs>
-<path d="M18 4H416V262L402 276H4V18Z" fill="#0b1426"/>
-<path d="M18 4H416V40H4V18Z" fill="#111d36"/>
-<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#1c2c4f"/>
-<text x="210" y="27" class="wtitle" fill="#3d8bff" text-anchor="middle">[ COMBAT RECORD ]</text>
-<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#3566b8" stroke-width="1.5"/>
-<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
-<text x="20" y="64" class="label" fill="#8a9bc0">RAIDS</text>
+<path d="M18 4H416V262L402 276H4V18Z" fill="#0a1d29"/>
+<path d="M18 4H416V40H4V18Z" fill="#152834"/>
+<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#253743"/>
+<text x="210" y="27" class="wtitle" fill="#5fd4ff" text-anchor="middle">[ COMBAT RECORD ]</text>
+<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#4a7388" stroke-width="1.5"/>
+<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#5fd4ff" stroke-width="2" filter="url(#glow)"/>
+<text x="20" y="64" class="label" fill="#8fb6c9">RAIDS</text>
 
-<text x="400" y="64" class="value" fill="#e6edf7" text-anchor="end">0 merged</text>
-<line x1="20" y1="72.5" x2="400" y2="72.5" stroke="#1c2c4f"/>
-<text x="20" y="89" class="label" fill="#8a9bc0">PR ACCURACY</text>
-<text x="358.8" y="89" class="caption" fill="#8a9bc0" text-anchor="end">3 / 3</text>
-<text x="400" y="89" class="value" fill="#e6edf7" text-anchor="end">100%</text>
-<line x1="20" y1="97.5" x2="400" y2="97.5" stroke="#1c2c4f"/>
-<text x="20" y="114" class="label" fill="#8a9bc0">SUPPORT</text>
+<text x="400" y="64" class="value" fill="#e8f8ff" text-anchor="end">0 merged</text>
+<line x1="20" y1="72.5" x2="400" y2="72.5" stroke="#253743"/>
+<text x="20" y="89" class="label" fill="#8fb6c9">PR ACCURACY</text>
+<text x="358.8" y="89" class="caption" fill="#8fb6c9" text-anchor="end">3 / 3</text>
+<text x="400" y="89" class="value" fill="#e8f8ff" text-anchor="end">100%</text>
+<line x1="20" y1="97.5" x2="400" y2="97.5" stroke="#253743"/>
+<text x="20" y="114" class="label" fill="#8fb6c9">SUPPORT</text>
 
-<text x="400" y="114" class="value" fill="#e6edf7" text-anchor="end">0 reviews</text>
-<line x1="20" y1="122.5" x2="400" y2="122.5" stroke="#1c2c4f"/>
-<text x="20" y="139" class="label" fill="#8a9bc0">GATES OPENED</text>
-<text x="327.6" y="139" class="caption" fill="#8a9bc0" text-anchor="end">this year</text>
-<text x="400" y="139" class="value" fill="#e6edf7" text-anchor="end">45 repos</text>
-<line x1="20" y1="147.5" x2="400" y2="147.5" stroke="#1c2c4f"/>
-<text x="20" y="164" class="label" fill="#8a9bc0">ACTIVE DAYS</text>
-<text x="327.6" y="164" class="caption" fill="#8a9bc0" text-anchor="end">15%</text>
-<text x="400" y="164" class="value" fill="#e6edf7" text-anchor="end">55 / 369</text>
-<line x1="20" y1="172.5" x2="400" y2="172.5" stroke="#1c2c4f"/>
-<text x="20" y="189" class="label" fill="#8a9bc0">BEST DAY</text>
-<text x="374.4" y="189" class="caption" fill="#8a9bc0" text-anchor="end">2026-08-28</text>
-<text x="400" y="189" class="value" fill="#e6edf7" text-anchor="end">18</text>
-<line x1="20" y1="197.5" x2="400" y2="197.5" stroke="#1c2c4f"/>
-<text x="20" y="214" class="label" fill="#8a9bc0">GUILDS</text>
+<text x="400" y="114" class="value" fill="#e8f8ff" text-anchor="end">0 reviews</text>
+<line x1="20" y1="122.5" x2="400" y2="122.5" stroke="#253743"/>
+<text x="20" y="139" class="label" fill="#8fb6c9">GATES OPENED</text>
+<text x="327.6" y="139" class="caption" fill="#8fb6c9" text-anchor="end">this year</text>
+<text x="400" y="139" class="value" fill="#e8f8ff" text-anchor="end">45 repos</text>
+<line x1="20" y1="147.5" x2="400" y2="147.5" stroke="#253743"/>
+<text x="20" y="164" class="label" fill="#8fb6c9">ACTIVE DAYS</text>
+<text x="327.6" y="164" class="caption" fill="#8fb6c9" text-anchor="end">15%</text>
+<text x="400" y="164" class="value" fill="#e8f8ff" text-anchor="end">55 / 369</text>
+<line x1="20" y1="172.5" x2="400" y2="172.5" stroke="#253743"/>
+<text x="20" y="189" class="label" fill="#8fb6c9">BEST DAY</text>
+<text x="374.4" y="189" class="caption" fill="#8fb6c9" text-anchor="end">2026-08-28</text>
+<text x="400" y="189" class="value" fill="#e8f8ff" text-anchor="end">18</text>
+<line x1="20" y1="197.5" x2="400" y2="197.5" stroke="#253743"/>
+<text x="20" y="214" class="label" fill="#8fb6c9">GUILDS</text>
 
-<text x="400" y="214" class="value" fill="#e6edf7" text-anchor="end">0 orgs</text>
-<line x1="20" y1="222.5" x2="400" y2="222.5" stroke="#1c2c4f"/>
-<text x="400" y="262" class="code" fill="#8a9bc0" text-anchor="end">@Dung092005 · SYNCED 2026-10-08</text>
+<text x="400" y="214" class="value" fill="#e8f8ff" text-anchor="end">0 orgs</text>
+<line x1="20" y1="222.5" x2="400" y2="222.5" stroke="#253743"/>
+<text x="400" y="262" class="code" fill="#8fb6c9" text-anchor="end">@Dung092005 · SYNCED 2026-10-08</text>
 </svg>
