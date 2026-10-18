@@ -2,7 +2,7 @@
   "login": "Dung092005",
   "level": 6,
   "overall": "A",
-  "overallPercentile": 0.9375750723789085,
+  "overallPercentile": 0.9370722304715658,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -43,18 +43,18 @@
     },
     {
       "code": "CHA",
-      "value": 9,
-      "rank": "A",
-      "percentile": 0.8823467386925528
+      "value": 8,
+      "rank": "B",
+      "percentile": 0.8689682158599497
     }
   ],
   "events": [
     {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-10T20:32:45.233Z"
+      "kind": "stat",
+      "subject": "CHA",
+      "from": "A",
+      "to": "B",
+      "at": "2026-10-18T19:23:30.324Z"
     }
   ],
   "achievements": [
@@ -131,7 +131,7 @@
     {
       "id": "beacon",
       "tier": 0,
-      "value": 9
+      "value": 8
     },
     {
       "id": "guild-hopper",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-18",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-17",
         "cleared": 0,
@@ -257,5 +262,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-17T19:16:19.428Z"
+  "syncedAt": "2026-10-18T19:23:30.324Z"
 }

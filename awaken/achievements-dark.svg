@@ -189,7 +189,7 @@
 <use href="#i-lock" x="445" y="356" width="20" height="20" fill="#8fb6c9"/>
 <text x="485" y="358" class="strong" fill="#8fb6c9">Beacon</text>
 <path transform="translate(442 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(452 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/><path transform="translate(462 394)" d="M0 3 3 0 6 3 3 6Z" fill="#253743"/>
-<text x="485" y="377" class="caption" fill="#8fb6c9">9 / 10</text>
+<text x="485" y="377" class="caption" fill="#8fb6c9">8 / 10</text>
 <text x="485" y="393" class="code" fill="#8fb6c9">FOLLOWERS</text>
 </g>
 <g>
@@ -292,5 +292,5 @@
 <text x="80" y="605" class="caption" fill="#e8f8ff">4 / 7</text>
 <text x="80" y="621" class="code" fill="#8fb6c9">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#8fb6c9" text-anchor="end">@Dung092005 · SYNCED 2026-10-17</text>
+<text x="820" y="646" class="code" fill="#8fb6c9" text-anchor="end">@Dung092005 · SYNCED 2026-10-18</text>
 </svg>
