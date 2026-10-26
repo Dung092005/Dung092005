@@ -85,7 +85,7 @@
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hours-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hours-light.svg"><img src="awaken/hours-dark.svg" width="49%" alt="Dung092005: hunting hours"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="Dung092005: penalty zone"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="Dung092005: daily quest"></picture>
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-str-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-str-light.svg"><img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank B"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-agi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-agi-light.svg"><img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank C"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-int-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-int-light.svg"><img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank B"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank SS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank SSS"></picture>
 </p>
 
 <p align="center">
