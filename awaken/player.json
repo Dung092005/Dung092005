@@ -48,29 +48,7 @@
       "percentile": 0.8533054213093526
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "SS",
-      "to": "SSS",
-      "at": "2026-10-26T21:35:30.650Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-26T21:35:30.650Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-26T21:35:30.650Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -200,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-02",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-01",
         "cleared": 0,
@@ -346,5 +329,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-11-01T21:06:47.111Z"
+  "syncedAt": "2026-11-02T23:51:04.235Z"
 }
