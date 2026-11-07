@@ -1,8 +1,8 @@
 {
   "login": "Dung092005",
-  "level": 6,
+  "level": 7,
   "overall": "S",
-  "overallPercentile": 0.9420195105172827,
+  "overallPercentile": 0.9424815926900635,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 171,
+      "value": 177,
       "rank": "B",
-      "percentile": 0.7888775564804055
+      "percentile": 0.795217244517149
     },
     {
       "code": "AGI",
-      "value": 6,
+      "value": 7,
       "rank": "B",
-      "percentile": 0.7653642266531063
+      "percentile": 0.7814694279652441
     },
     {
       "code": "INT",
@@ -43,12 +43,19 @@
     },
     {
       "code": "CHA",
-      "value": 7,
+      "value": 6,
       "rank": "B",
-      "percentile": 0.8533054213093526
+      "percentile": 0.8348183849229494
     }
   ],
   "events": [
+    {
+      "kind": "level",
+      "subject": "Level",
+      "from": "6",
+      "to": "7",
+      "at": "2026-11-07T20:49:33.384Z"
+    },
     {
       "kind": "overall",
       "subject": "Overall rank",
@@ -68,22 +75,22 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 5
+      "value": 7
     },
     {
       "id": "quickdraw",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "yolo",
       "tier": 1,
-      "value": 5
+      "value": 7
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 171
+      "value": 177
     },
     {
       "id": "unbroken",
@@ -103,7 +110,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 17
+      "value": 19
     },
     {
       "id": "gate-opener",
@@ -138,7 +145,7 @@
     {
       "id": "beacon",
       "tier": 0,
-      "value": 7
+      "value": 6
     },
     {
       "id": "guild-hopper",
@@ -153,17 +160,17 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 22
+      "value": 25
     },
     {
       "id": "diligent",
       "tier": 1,
-      "value": 59
+      "value": 60
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 18
+      "value": 21
     },
     {
       "id": "boss-slayer",
@@ -188,11 +195,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-07",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-06",
         "cleared": 2,
@@ -349,10 +361,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 18,
+    "questsDone": 21,
     "bosses": [
       "2026-10-05"
     ],
@@ -362,8 +374,9 @@
       "commit",
       "average",
       "mp",
-      "three"
+      "three",
+      "streak"
     ]
   },
-  "syncedAt": "2026-11-06T22:01:00.358Z"
+  "syncedAt": "2026-11-07T20:49:33.384Z"
 }
