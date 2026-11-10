@@ -85,7 +85,7 @@
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hours-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hours-light.svg"><img src="awaken/hours-dark.svg" width="49%" alt="Dung092005: hunting hours"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="Dung092005: daily quest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="Dung092005: penalty zone"></picture>
 </p>
 
 <p align="center">
