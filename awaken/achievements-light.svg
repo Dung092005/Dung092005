@@ -259,7 +259,7 @@
 <use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#456b7b"/>
 <text x="282.5" y="510" class="strong" fill="#456b7b">Quest Hunter</text>
 <path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/>
-<text x="282.5" y="529" class="caption" fill="#456b7b">23 / 50</text>
+<text x="282.5" y="529" class="caption" fill="#456b7b">24 / 50</text>
 <text x="282.5" y="545" class="code" fill="#456b7b">QUESTS CLEARED</text>
 </g>
 <g>
