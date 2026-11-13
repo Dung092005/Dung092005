@@ -69,20 +69,6 @@
       "from": "6",
       "to": "7",
       "at": "2026-11-07T20:49:33.384Z"
-    },
-    {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "A",
-      "to": "S",
-      "at": "2026-11-06T22:01:00.358Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "C",
-      "to": "B",
-      "at": "2026-11-06T22:01:00.358Z"
     }
   ],
   "achievements": [
@@ -214,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 1,
@@ -419,5 +410,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-12T22:41:00.193Z"
+  "syncedAt": "2026-11-13T22:31:30.459Z"
 }
