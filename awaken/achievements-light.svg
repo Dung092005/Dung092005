@@ -79,7 +79,7 @@
 <use href="#i-sword" x="647.5" y="128" width="20" height="20" fill="#08303f"/>
 <text x="687.5" y="130" class="strong" fill="#08303f">Relentless</text>
 <path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#0a78a0"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/>
-<text x="687.5" y="149" class="caption" fill="#08303f">179 / 1,000</text>
+<text x="687.5" y="149" class="caption" fill="#08303f">180 / 1,000</text>
 <text x="687.5" y="165" class="code" fill="#456b7b">COMMITS</text>
 </g>
 <g>
@@ -229,7 +229,7 @@
 <use href="#i-calendar" x="445" y="432" width="20" height="20" fill="#08303f"/>
 <text x="485" y="434" class="strong" fill="#08303f">Diligent</text>
 <path transform="translate(442 470)" d="M0 3 3 0 6 3 3 6Z" fill="#0a78a0"/><path transform="translate(452 470)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/><path transform="translate(462 470)" d="M0 3 3 0 6 3 3 6Z" fill="#e1e6e8"/>
-<text x="485" y="453" class="caption" fill="#08303f">62 / 150</text>
+<text x="485" y="453" class="caption" fill="#08303f">63 / 150</text>
 <text x="485" y="469" class="code" fill="#456b7b">ACTIVE DAYS</text>
 </g>
 <g>
@@ -292,5 +292,5 @@
 <text x="80" y="605" class="caption" fill="#08303f">7 / 10</text>
 <text x="80" y="621" class="code" fill="#456b7b">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#456b7b" text-anchor="end">@Dung092005 · SYNCED 2026-11-22</text>
+<text x="820" y="646" class="code" fill="#456b7b" text-anchor="end">@Dung092005 · SYNCED 2026-11-24</text>
 </svg>

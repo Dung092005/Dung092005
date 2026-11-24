@@ -2,7 +2,7 @@
   "login": "Dung092005",
   "level": 7,
   "overall": "S",
-  "overallPercentile": 0.9433511197809561,
+  "overallPercentile": 0.9434211847027458,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 179,
+      "value": 180,
       "rank": "B",
-      "percentile": 0.7972588532886731
+      "percentile": 0.7982667291413368
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 179
+      "value": 180
     },
     {
       "id": "unbroken",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 62
+      "value": 63
     },
     {
       "id": "daily-grinder",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 0,
@@ -434,5 +439,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-22T22:24:51.755Z"
+  "syncedAt": "2026-11-24T03:16:13.685Z"
 }
